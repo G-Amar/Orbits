@@ -6,3 +6,5 @@ Each of the celestial bodies is connected to the object they are orbiting by dis
 Distances between celestial bodies can be calculated an returned easily.
 
 This project was done in Elixir, Haskell, Rust, and Smalltalk programming languages.
+
+These projects used Fossil for Version Control.
